@@ -1,8 +1,8 @@
-# 🚀 Machine Learning Internship at CodSoft
-## 📌 Overview
+#  Machine Learning Internship at CodSoft
+##  Overview
 ### This repository contains projects completed during my Machine Learning internship at CodSoft. The internship focused on applying ML techniques to real-world problems, including customer churn prediction, spam SMS detection, and credit card fraud detection.
 
-## 🏆 Projects
+##  Projects
 ### 1️⃣ Customer Churn Prediction
 Objective: Predict whether a customer is likely to churn based on behavioral data.
 Tech Stack: Python, Pandas, Scikit-Learn, Logistic Regression, Random Forest.
