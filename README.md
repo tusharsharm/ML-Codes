@@ -15,7 +15,7 @@
 
 ### 3️⃣ Credit Card Fraud Detection
 - Objective: Detect fraudulent transactions using anomaly detection models.
-- Tech Stack: Python, Scikit-Learn.
+- Tech Stack: Python, Scikit-Learn,Random Forest.
 
 
 ## 🔧 Technologies Used
